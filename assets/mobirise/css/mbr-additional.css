@@ -1972,7 +1972,7 @@ body {
   }
 }
 .cid-qJKdUZ73Vz {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1989,7 +1989,7 @@ body {
   color: #232;
 }
 .cid-qJKe7TAerp {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2033,7 +2033,7 @@ body {
   }
 }
 .cid-qJKmdmnBOC {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -2194,9 +2194,10 @@ body {
   }
 }
 .cid-qJKyn1Ri3s H5 {
-  text-align: left;
+  text-align: right;
   color: #232323;
 }
 .cid-qJKyn1Ri3s P {
   color: #232323;
+  text-align: right;
 }
