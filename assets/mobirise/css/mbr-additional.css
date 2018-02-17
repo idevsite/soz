@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -655,13 +655,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1781,8 +1781,8 @@ body {
   }
 }
 .cid-qJLuK4wBA3 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qJLuK4wBA3 .mbr-text,
